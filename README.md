@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project in IT School<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with something unusual<br>🌱 I’m currently learning Java/Kotlin<br>💬 Ask me about everything<br>⚡ Nothing special
+🔭 I’m currently working on business and financial analysis<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with something unusual<br>🌱 I’m currently learning BA<br>💬 Ask me about everything<br>⚡ Nothing special
 
 
 ## 🌐 Socials:
