@@ -2,7 +2,7 @@
 
 Strategy consultant with a CS background, moving toward product. I study Applied Mathematics & Computer Science at HSE University (Moscow) and work on strategy and AI projects for banks and large corporates at Yakov & Partners. Before that, I interned at T-Bank.
 
-Here I keep side projects and coursework: fintech apps, ML forecasting, and data engineering.
+Here I keep side projects and coursework: video production automation, fintech apps, ML forecasting, and data engineering.
 
 **What I work on**
 - Strategy and business cases for AI in financial services
@@ -13,9 +13,9 @@ Here I keep side projects and coursework: fintech apps, ML forecasting, and data
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**origins-of-giants**](https://github.com/Kyronison/origins-of-giants) | Documentary video production pipeline: research, scripts, narration, assets, rendering, quality checks and YouTube integration | Python, SQLite, Remotion, TypeScript |
 | [**cryptoforecast-lab**](https://github.com/Kyronison/cryptoforecast-lab) | Web service that compares 8 crypto price forecasting models (Transformer, LSTM, GRU, XGBoost, permutation decision trees) on daily and 5-minute data | Python, FastAPI, PyTorch, React, Docker |
 | [**finly**](https://github.com/Kyronison/finly) | Personal finance "autopilot": budgets, spending dashboard, gamified streaks | Next.js, TypeScript, Prisma |
-| [**course-project**](https://github.com/Kyronison/course-project) | Dashboard for TradFi + DeFi metrics: correlations and Markowitz portfolio optimization | Python, Flask, PostgreSQL, Docker |
 | [**hadoop-homework**](https://github.com/Kyronison/hadoop-homework) | 4-node Hadoop cluster from scratch: HDFS, YARN, Hive, Spark on YARN, with automated checks | Hadoop, Hive, Spark, Python |
 
 ### Tools
